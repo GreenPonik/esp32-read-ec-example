@@ -19,3 +19,10 @@
 
 # Tutorial here
 [![Tutorial here](http://img.youtube.com/vi/n1EBzMDPI74/0.jpg)](https://www.youtube.com/watch?v=n1EBzMDPI74 "EC Meter with ESP32 and DFRobot EC module (DFR0300)")
+
+### Suscribe on our newsletter here : 
+en: http://bit.ly/2NuaKbN
+
+fr: http://bit.ly/2XNf61R
+
+https://www.greenponik.com
