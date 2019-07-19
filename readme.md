@@ -16,3 +16,6 @@
 
 ## #3 debug through serial monitor
 > pio device monitor
+
+# Tutorial here
+[![Tutorial here](http://img.youtube.com/vi/n1EBzMDPI74/0.jpg)](https://www.youtube.com/watch?v=n1EBzMDPI74 "EC Meter with ESP32 and DFRobot EC module (DFR0300)")
